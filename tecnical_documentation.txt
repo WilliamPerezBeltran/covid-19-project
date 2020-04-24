@@ -41,3 +41,9 @@ $ yarn add axios
 
 https://github.com/axios/axios
 [axios](https://github.com/axios/axios)
+
+https://material-ui.com/api/card/
+
+ yarn add @material-ui/core
+ yarn add react-countup react-chartjs-2 classnames @material-ui/core
+
