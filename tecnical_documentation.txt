@@ -31,3 +31,19 @@ Runs the app in development mode.
 Open http://localhost:3000 to view it in the browser.
 
 seeing same documentation here https://github.com/facebook/create-react-app
+
+
+install axios 
+
+Using yarn:
+
+$ yarn add axios
+
+https://github.com/axios/axios
+[axios](https://github.com/axios/axios)
+
+https://material-ui.com/api/card/
+
+ yarn add @material-ui/core
+ yarn add react-countup react-chartjs-2 classnames @material-ui/core
+
